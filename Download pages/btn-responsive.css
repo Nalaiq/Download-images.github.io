@@ -1,0 +1,45 @@
+@media(max-width:560px){
+    .mt-3rem{
+        margin-top: 0.1rem;
+    }
+}
+@media(max-width:460px){
+    .btn{
+        width: 28rem;
+    }
+
+    .mt-3rem{
+        margin-top: 0;
+    }
+}
+
+@media(max-width:440px){
+    .btn{
+        width: 26rem;
+    }
+}
+
+@media(max-width:418px){
+    .btn{
+        width: 24rem;
+    }
+}
+
+@media(max-width:382px){
+
+    .btn{
+        width: 22rem;
+    }
+}
+
+@media(max-width:348px){
+    .btn{
+        width: 20rem;
+    }
+}
+
+@media(max-width:324px){
+    .btn{
+        width: 18rem;
+    }
+}
